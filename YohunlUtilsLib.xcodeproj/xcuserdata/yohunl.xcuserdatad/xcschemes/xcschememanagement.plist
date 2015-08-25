@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Aggret.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
 		<key>YohunlUtilsLib.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -12,6 +17,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>090B29151B8C0AE700249FB1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>093FB6531B8B23BB00282C73</key>
 		<dict>
 			<key>primary</key>
